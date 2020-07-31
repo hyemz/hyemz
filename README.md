@@ -1,5 +1,9 @@
-### Hi there 👋
-🌱 I’m currently learning `java`
+## Hi there 👋
+***
+🌱 I’m currently learning `java`  &nbsp;&nbsp; 👉 **[Today_I_Learned](https://github.com/hyemz/TIL)**
+
+
+
 <!--
 **hyemz/hyemz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
