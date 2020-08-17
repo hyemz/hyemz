@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 🌱 I’m currently learning &nbsp; `java`  &nbsp; 👉 **[Today_I_Learned](https://github.com/hyemz/TIL)**
 
 
