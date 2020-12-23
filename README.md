@@ -1,5 +1,5 @@
 # Hi there 👋
-🌱 I’m currently learning &nbsp; <img src="https://img.shields.io/badge/Java-FF26BE?style=flat-square&logo=Java&logoColor=white"/></a>  &nbsp; 👉 **[Today_I_Learned](https://github.com/hyemz/TIL)**
+🌱 I’m currently learning &nbsp; <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>  &nbsp; 👉 **[Today_I_Learned](https://github.com/hyemz/TIL)**
 
 
 
