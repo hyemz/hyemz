@@ -1,8 +1,8 @@
-
-  <h1 align="center">Hi there 😊</h2>
+<h1 align="center">Hi there 😊 </h1>
   <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=hyemz&show_icons=true&theme=buefy" />
-<p>
+</p>
+<p align="center"> <a href="https://github.com/hyemz/TIL"><img src="https://img.shields.io/badge/Today I Learned-61337C?style=flat-square"/></a></p>
 <br>
   
 <h3 align="center"> 🦋 I’m currently learning </h2>
@@ -15,18 +15,11 @@
 
 <br>
 
-<h3 align="center"> 📝 I'm currently writing on velog </h2>
+<h3 align="center"> 📝 I'm currently studying (click badge)</h2>
 <p align="center">
-<a href="https://velog.io/@hyemz"><img src="https://img.shields.io/badge/click me!-03C75A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://velog.io/@hyemz"><img src="https://img.shields.io/badge/Velog-03C75A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+   <a href="https://github.com/hyemz/TIL"><img src="https://img.shields.io/badge/Today I Learned-61337C?style=flat-squar&logo=GitHub&logoColor=whitee"/></a>
 </p>
-
-<br>
-
-<h3 align="center">
-  <a href="https://github.com/hyemz/TIL">⚽️ Today I Learned</a>
-  </h2>
-</p>
-
 
 
 
