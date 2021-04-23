@@ -2,7 +2,6 @@
   <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=hyemz&show_icons=true&theme=buefy" />
 </p>
-<p align="center"> <a href="https://github.com/hyemz/TIL"><img src="https://img.shields.io/badge/Today I Learned-61337C?style=flat-square"/></a></p>
 <br>
   
 <h3 align="center"> 🦋 I’m currently learning </h2>
