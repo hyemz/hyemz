@@ -1,13 +1,10 @@
-<h1 align="center">
-Hi there 👋 
-</h1>
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=hyemz&show_icons=true&theme=buefy" />
 <p>
 <br>
   
-## 🦋 I’m currently learning
-<p><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<h2 align="center"> 🦋 I’m currently learning </h2>
+<p align="center"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-155672?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
@@ -16,17 +13,17 @@ Hi there 👋
 
 <br>
 
-## [⚽️ Today I Learned](https://github.com/hyemz/TIL)
-#### Algorithm
-  * SWEA
-  * BOJ
-  * JUNOL
+<h2 align="center">
+  <a href="https://github.com/hyemz/TIL">⚽️ Today I Learned</a>
+  </h2>
+</p>
 
 <br>
 
-## 📝 I'm currently writing on velog
+<h2 align="center"> 📝 I'm currently writing on velog </h2>
+<p align="center">
 <a href="https://velog.io/@hyemz"><img src="https://img.shields.io/badge/click me!-03C75A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
+</p>
 
 
 <!--
