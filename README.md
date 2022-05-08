@@ -17,7 +17,8 @@
 <h3 align="center"> 📝 I'm currently studying (click badge)</h2>
 <p align="center">
 <a href="https://velog.io/@hyemz"><img src="https://img.shields.io/badge/Velog-03C75A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-   <a href="https://github.com/hyemz/TIL"><img src="https://img.shields.io/badge/Today I Learned-61337C?style=flat-squar&logo=GitHub&logoColor=whitee"/></a>
+   <a href="https://github.com/hyemz/TIL"><img src="https://img.shields.io/badge/Today I Learned-61337C?style=flat-squar&logo=GitHub&logoColor=whitee"/>
+  <a href="https://github.com/hyemz/React_StudyGroup"><img src="https://img.shields.io/badge/LDCC StudyGroup-CD5C5C?style=flat-squar&logo=GitHub&logoColor=white"/></a>
 </p>
 
 
